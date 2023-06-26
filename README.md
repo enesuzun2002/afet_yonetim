@@ -67,7 +67,7 @@ When contributing, please ensure that you follow the existing code style and gui
 
 ## License
 
-The Disaster Management App is released under the MIT License. You are free to modify and distribute this software for both commercial and non-commercial purposes. Refer to the LICENSE file for more information.
+The Disaster Management App is released under the [MIT License](LICENSE). You are free to modify and distribute this software for both commercial and non-commercial purposes. Refer to the LICENSE file for more information.
 
 ## Acknowledgments
 

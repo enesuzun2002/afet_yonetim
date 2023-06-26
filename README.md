@@ -2,6 +2,8 @@
 
 This Flutter application is designed to provide a disaster management solution that allows users to report their location along with relevant information such as phone number and photos. It utilizes various packages to enhance functionality, including Firebase, Flutter Riverpod, Geolocator, and ObjectBox.
 
+[Backend used in this project](https://github.com/enesuzun2002/afet_backend)
+
 ## Features
 The Disaster Management App offers the following key features:
 
